@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1, 
+            "name": "iPhone 14 Pro", 
+            "des": "Apple iPhone 14th generation", 
+            "price": 999, 
+            "color": "#33505a", 
+            "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-deeppurple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703841896"
+        },
+        {
+            "id": 2, 
+            "name": "Pixel 5", 
+            "des": "Google Pixel Phone 5th generation", 
+            "price": 699, 
+            "color": "#00ac51", 
+            "image":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51cPFTAo1lL._SL1000_.jpg"
+        },
+        {
+            "id": 3, 
+            "name": "Airpods Pro", 
+            "des": "Apple Airpods Pro 1st generation", 
+            "price": 200, 
+            "color": "#e3e4e9", 
+            "image":"https://as-images.apple.com/is/MME73?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1632861342000"
+        },
+        {
+            "id": 4, 
+            "name": "iPad Pro", 
+            "des": "Apple iPad Pro 2022 edition", 
+            "price": 799, 
+            "color": "#f73984", 
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-finish-select-202212-11inch-space-gray-wifi_FMT_WHH?wid=1280&hei=720&fmt=p-jpg&qlt=95&.v=1670865949101"
+        },
+        {
+            "id": 5, 
+            "name": "Galaxy S21 Ultra", 
+            "des": "Samsung Galaxy S21 Ultra 2022 edition", 
+            "price": 1299, 
+            "color": "#1c1c1c", 
+            "image":"https://www.refurbished.store/cache/images/samsung-galaxy-s21-ultra_600x600_BGresize_16777215-tj.png"
+        },
+        {
+            "id": 6, 
+            "name": "Galaxy S21", 
+            "des": "Samsung Galaxy S21 2022 edition", 
+            "price": 899, 
+            "color": "#7c95eb", 
+            "image":"https://cdn.dxomark.com/wp-content/uploads/medias/post-74826/SamsungGalaxys215g.jpg"
+        }
+    ]
+}

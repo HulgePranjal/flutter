@@ -1,5 +1,21 @@
+
+class CatalogModel{
+  static final items = [
+  Item(
+      id: 1, 
+      name: "iPhone 14 Pro", 
+      des: "Apple iPhone 14th generation", 
+      price: 999, 
+      color: "#33505a", 
+      image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-finish-select-202209-6-7inch-deeppurple?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=1663703841896"
+  )];
+
+}
+
+
+
 class Item{
- final String id;
+ final int id;
  final String name;
  final String des;
  final num price;
@@ -10,11 +26,3 @@ class Item{
 
 }
 
-final products = [Item(
-  id: "Pranjal001", 
-  name: "iPhone 14 Pro", 
-  des: "Apple iPhone 14th generation", 
-  price: 999, 
-  color: "#33505a", 
-  image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.91mobiles.com%2Fapple-iphone-14-pro-max-price-in-india%3Fty%3Dgallery&psig=AOvVaw3DdHL_MNF63MLh33Pn8gLE&ust=1679742281105000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiLx-G19P0CFQAAAAAdAAAAABAE"
-  )];
